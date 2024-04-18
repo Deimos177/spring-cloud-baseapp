@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: base
+  cloud:
+    kubernetes:
+      config:
+        enabled: false
